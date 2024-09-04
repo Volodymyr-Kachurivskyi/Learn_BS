@@ -1,5 +1,6 @@
-1.	Bootstrap Grid Layout (Clip 10): Gentle Introduction to Bootstrap 5. URL: https://youtu.be/GHkxF-vSzdQ?si=2ZQ6DNSDmoUkxoQa
-2.	Bootstrap 5 Crash Course Tutorial #7 - Grid Layout (part 1). URL: https://youtu.be/irfbn103AzE?si=0khZQ4XtbRj3cqdT
-3.	Bootstrap Grid System Tutorial | Bootstrap 5. URL: https://youtu.be/Wqu-d_b3K-0?si=TSA-4KTL1AVkqON7
-4.	Learn Flexbox in 15 Minutes. URL: https://youtu.be/fYq5PXgSsbE?si=gxPPi7yFtUDX-IPa
-5.	New Grid System in Bootstrap 5 (Practical Examples). URL: https://youtu.be/TRQamL_UPh0?si=uAJb1Ya8cCfG-rd7
+1. Bootstrap Grid Layout (Clip 10): Gentle Introduction to Bootstrap 5. URL: https://youtu.be/GHkxF-vSzdQ?si=2ZQ6DNSDmoUkxoQa
+2. Bootstrap 5 Crash Course Tutorial #7 - Grid Layout (part 1). URL: https://youtu.be/irfbn103AzE?si=0khZQ4XtbRj3cqdT
+3. Bootstrap Grid System Tutorial | Bootstrap 5. URL: https://youtu.be/Wqu-d_b3K-0?si=TSA-4KTL1AVkqON7
+4. Learn Flexbox in 15 Minutes. URL: https://youtu.be/fYq5PXgSsbE?si=gxPPi7yFtUDX-IPa
+5. New Grid System in Bootstrap 5 (Practical Examples). URL: https://youtu.be/TRQamL_UPh0?si=uAJb1Ya8cCfG-rd7
+6. Як зареєструватись та почати використовувати онлайн редактор коду CodePen.io https://youtu.be/cJJa7dSNFOo?si=qE4Fj3LzEHHfOhp-
