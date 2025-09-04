@@ -4,3 +4,13 @@
 4. Learn Flexbox in 15 Minutes. URL: https://youtu.be/fYq5PXgSsbE?si=gxPPi7yFtUDX-IPa
 5. New Grid System in Bootstrap 5 (Practical Examples). URL: https://youtu.be/TRQamL_UPh0?si=uAJb1Ya8cCfG-rd7
 6. Як зареєструватись та почати використовувати онлайн редактор коду CodePen.io https://youtu.be/cJJa7dSNFOo?si=qE4Fj3LzEHHfOhp-
+7. Bootstrap CSS Framework – Full Course for Beginners [Електронний ресурс] // YouTube, канал freeCodeCamp.org. – 2021. – Режим доступу: https://www.youtube.com/watch?v=-qfEOE4vtxE
+ (дата звернення: 04.09.2025).
+8. Learn Bootstrap in less than 20 minutes – Responsive Website [Електронний ресурс] // YouTube, канал The Net Ninja. – 2022. – Режим доступу: https://www.youtube.com/watch?v=eow125xV5-c
+ (дата звернення: 04.09.2025).
+9. Bootstrap 5 Crash Course [Електронний ресурс] // YouTube, канал Traversy Media. – 2021. – Режим доступу: https://www.youtube.com/watch?v=Jyvffr3aCp0
+ (дата звернення: 04.09.2025).
+10. Bootstrap 5 Full Course 2025 | Basic to Advanced Responsive Web Design [Електронний ресурс] // YouTube, канал Keep coding. – 2025. – Режим доступу: https://www.youtube.com/watch?v=QBCNO9M2_ds
+ (дата звернення: 04.09.2025).
+11. Learn Bootstrap: Easy Step-by-Step Tutorial v5.3 [Електронний ресурс] // YouTube, канал GreatStack. – 2023. – Режим доступу: https://www.youtube.com/watch?v=MTRHi0gxPEo
+ (дата звернення: 04.09.2025).
