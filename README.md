@@ -5,4 +5,6 @@
 - Завдання для практичних робіт (папка Pract)
 - Завдання для лабораторних робіт (папка Labs)
 - Завдання для самостійної роботи
-Матеріально технічне забезпечення дисципліни: Visual Studio (або інше), доступ до Internet, Chrome, Firefox, Opera, https://jsfiddle.net/, https://codepen.io/ , GitHub, Open Server 5.0 та вище,  Bootstrap 5.3. Git.
+
+Матеріально технічне забезпечення дисципліни: 
+Visual Studio (або інше), доступ до Internet, Chrome, Firefox, Opera, https://jsfiddle.net/, https://codepen.io/ , GitHub, Open Server 5.0 та вище,  Bootstrap 5.3. Git.
